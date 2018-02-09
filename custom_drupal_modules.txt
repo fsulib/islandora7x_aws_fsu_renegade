@@ -62,7 +62,6 @@ search_api_solr_overrides
 simplecrop
 smtp
 stringoverrides
-summon_solr_search
 token
 transliteration
 usersearchtoadmin
